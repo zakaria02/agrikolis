@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852221856664",
+    "project_id": "agrikolis",
+    "storage_bucket": "agrikolis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852221856664:android:35ca78705bf0d35a9d39ed",
+        "android_client_info": {
+          "package_name": "com.example.AGRIKOLIS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852221856664-err97djckksd4rahb34amt6aeqvi3rcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiYkpDCEF0ZI0R9DjoHtsFY_1Q8MLWnGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852221856664-err97djckksd4rahb34amt6aeqvi3rcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
